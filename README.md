@@ -1,0 +1,2 @@
+# ProtocolBufferDemo
+Java中使用ProtocolBuffer的Demo，IDE使用的IntelliJ IDEA
